@@ -1,0 +1,1 @@
+mahout spark-itemsimilarity --input /asb140930/Mahout/ratings.dat --output /asb140930/M --maxSimilaritiesPerItem 5 --filter1 3 --itemIDColumn 1 --rowIDColumn 0 --filterColumn 2 --inDelim "::" --omitStrength
